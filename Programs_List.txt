@@ -8,8 +8,8 @@ Unit 1
    1.3) Bubble
    1.4) Insertion
    1.5) Shell
-   1.6) Quick
-   1.7) Merge
+   1.6) Quick*
+   1.7) Merge*
 
 2) Searching
    2.1) Linear Search
@@ -44,11 +44,11 @@ Unit 2
    4.1) Stack (via Array)
    4.2) Stack (via Linked List)
 
-5) Infix to Postfix Representation (via Stack
+5) Infix to Postfix Representation (via Stack)*
 
-6) Value of Infix Expression (via Stack)
+6) Value of Infix Expression (via Stack)*
 
-7) Hashing
+7) Hashing*
 
 
 ==============================
