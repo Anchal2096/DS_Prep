@@ -1,8 +1,13 @@
-*
+**
 *.*
 !.gitignore
 idea
 idea/*
+!Sorting
+Sorting/**/
+!Sorting/*.cpp
+!Sorting/*.h
+!Sorting/*.txt
 !*.cpp
 !*.txt
 !*.h
